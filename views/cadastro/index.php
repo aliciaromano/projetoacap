@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\modelsCadastroSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = Yii::t('app', 'Cadastros');
+$this->title = Yii::t('app', 'Onde Encontrar?');
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="cadastro-index">

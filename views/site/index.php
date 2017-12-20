@@ -8,7 +8,7 @@ $this->title = 'ACAP - Associação Cerrocoraense de Apicultores';
 <section>
     <ul class="bxslider">
         <li>
-            <img src="<?=Url::to('@web/template/Galeria/foto.jpg')?>" style="height: 650px; width: 520px" id="acapmel" alt="Logo da Marca">
+            <img src="<?=Url::to('@web/template/Galeria/foto.jpg')?>" style="height: 550px; width: 420px" id="acapmel" alt="Logo da Marca">
         </li>
         <li>
             <img src="<?=Url::to('@web/template/Galeria/foto0.jpg')?>" alt="Comunidade">
@@ -55,5 +55,4 @@ $this->title = 'ACAP - Associação Cerrocoraense de Apicultores';
   <p style="text-indent: 3em;">A parceria da ACAP com o IFRN Campus Currais Novos começou no ano de 2016. Um dos projetos feitos em relação a essa parceria foi com uma tuma do curso de alimentos, conduzido pelo professor Danilo Cortez, cujo conteúdo desenvolvido foi em prol do lançamento da marca ACAPMEL.</p>
   <p style="text-indent: 3em;">Outro projeto feito a partir dessa relação foi com a turma de Informática 2014.1, coduzidos pelo professor Eliezio Soares e Saint Clair, ele quem conduziu as parcerias, e fez a ligação entre os grupos e as comunidades, e esse projeto tem como foco a criação de um portal para a divulgação da ACAPMEL.</p>
   <br>
-  <p><em>Mais informações serão adicionadas</em></p>
 </section>

@@ -7,7 +7,7 @@ use yii\helpers\Url;
 /* @var $this yii\web\View */
 /* @var $model app\models\Cadastro */
 
-$this->title = Yii::t('app', 'Create Cadastro');
+$this->title = Yii::t('app', 'Cadastro');
 $this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Cadastros'), 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>

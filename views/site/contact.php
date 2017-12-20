@@ -12,7 +12,6 @@ $this->title = 'Contato';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-contact">
-    <h1>Contato</h1><br>
 
     <?php if (Yii::$app->session->hasFlash('contactFormSubmitted')): ?>
 
@@ -32,7 +31,7 @@ $this->params['breadcrumbs'][] = $this->title;
         </p>
 
         <div class="row">
-            <div class="col-lg-5">
+            <div class="col-lg-5" style="">
 
                 <?php $form = ActiveForm::begin(['id' => 'contact-form']); ?>
 

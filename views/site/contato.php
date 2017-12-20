@@ -34,5 +34,9 @@ $this->title = 'Contato';
 		<img src="<?=Url::to('@web/template/Imagens/diskmel.png')?>" id="diskmel">
 		<img src="<?=Url::to('@web/template/Imagens/email.png')?>" id="email">
 	</div>
-
+		<div id="disk" style="width: 80%;">
+		<img src="<?=Url::to('@web/template/Imagens/dmel.png')?>" id="dmel">
+		<img src="<?=Url::to('@web/template/Imagens/diskmel.png')?>" id="diskmel">
+		<img src="<?=Url::to('@web/template/Imagens/email.png')?>" id="email">
+	</div>
 </section>
